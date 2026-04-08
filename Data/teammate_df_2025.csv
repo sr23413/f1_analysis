@@ -1,0 +1,97 @@
+TeammateAbbr,TeammatePosition,TeammateGrid,Status,Driver,EventName,Round,Year
+RUS,3.0,4.0,Finished,Antonelli,Australian Grand Prix,1,2025
+LAW,15.0,18.0,Retired,Hadjar,Australian Grand Prix,1,2025
+HUL,7.0,17.0,Finished,Bortoleto,Australian Grand Prix,1,2025
+OCO,13.0,19.0,Finished,Bearman,Australian Grand Prix,1,2025
+RUS,3.0,2.0,Finished,Antonelli,Chinese Grand Prix,2,2025
+LAW,12.0,20.0,Finished,Hadjar,Chinese Grand Prix,2,2025
+HUL,15.0,12.0,Lapped,Bortoleto,Chinese Grand Prix,2,2025
+OCO,5.0,11.0,Finished,Bearman,Chinese Grand Prix,2,2025
+RUS,5.0,5.0,Finished,Antonelli,Japanese Grand Prix,3,2025
+LAW,17.0,13.0,Finished,Hadjar,Japanese Grand Prix,3,2025
+HUL,16.0,16.0,Finished,Bortoleto,Japanese Grand Prix,3,2025
+OCO,18.0,18.0,Finished,Bearman,Japanese Grand Prix,3,2025
+RUS,2.0,3.0,Finished,Antonelli,Bahrain Grand Prix,4,2025
+LAW,16.0,17.0,Finished,Hadjar,Bahrain Grand Prix,4,2025
+HUL,20.0,16.0,Disqualified,Bortoleto,Bahrain Grand Prix,4,2025
+OCO,8.0,14.0,Finished,Bearman,Bahrain Grand Prix,4,2025
+RUS,5.0,3.0,Finished,Antonelli,Saudi Arabian Grand Prix,5,2025
+LAW,12.0,12.0,Finished,Hadjar,Saudi Arabian Grand Prix,5,2025
+HUL,15.0,18.0,Lapped,Bortoleto,Saudi Arabian Grand Prix,5,2025
+OCO,14.0,19.0,Finished,Bearman,Saudi Arabian Grand Prix,5,2025
+RUS,3.0,5.0,Finished,Antonelli,Miami Grand Prix,6,2025
+LAW,17.0,15.0,Retired,Hadjar,Miami Grand Prix,6,2025
+HUL,14.0,16.0,Lapped,Bortoleto,Miami Grand Prix,6,2025
+OCO,12.0,9.0,Finished,Bearman,Miami Grand Prix,6,2025
+RUS,7.0,3.0,Finished,Antonelli,Emilia Romagna Grand Prix,7,2025
+LAW,14.0,15.0,Finished,Hadjar,Emilia Romagna Grand Prix,7,2025
+HUL,12.0,17.0,Finished,Bortoleto,Emilia Romagna Grand Prix,7,2025
+OCO,20.0,18.0,Retired,Bearman,Emilia Romagna Grand Prix,7,2025
+RUS,11.0,14.0,Lapped,Antonelli,Monaco Grand Prix,8,2025
+LAW,8.0,9.0,Lapped,Hadjar,Monaco Grand Prix,8,2025
+HUL,16.0,13.0,Lapped,Bortoleto,Monaco Grand Prix,8,2025
+OCO,7.0,8.0,Lapped,Bearman,Monaco Grand Prix,8,2025
+RUS,4.0,4.0,Finished,Antonelli,Spanish Grand Prix,9,2025
+LAW,11.0,13.0,Finished,Hadjar,Spanish Grand Prix,9,2025
+HUL,5.0,15.0,Finished,Bortoleto,Spanish Grand Prix,9,2025
+OCO,16.0,16.0,Finished,Bearman,Spanish Grand Prix,9,2025
+RUS,1.0,1.0,Finished,Antonelli,Canadian Grand Prix,10,2025
+LAW,19.0,19.0,Retired,Hadjar,Canadian Grand Prix,10,2025
+HUL,8.0,11.0,Finished,Bortoleto,Canadian Grand Prix,10,2025
+OCO,9.0,14.0,Lapped,Bearman,Canadian Grand Prix,10,2025
+RUS,5.0,5.0,Finished,Antonelli,Austrian Grand Prix,11,2025
+LAW,6.0,6.0,Finished,Hadjar,Austrian Grand Prix,11,2025
+HUL,9.0,20.0,Lapped,Bortoleto,Austrian Grand Prix,11,2025
+OCO,10.0,17.0,Lapped,Bearman,Austrian Grand Prix,11,2025
+RUS,10.0,4.0,Finished,Antonelli,British Grand Prix,12,2025
+LAW,19.0,15.0,Retired,Hadjar,British Grand Prix,12,2025
+HUL,3.0,19.0,Finished,Bortoleto,British Grand Prix,12,2025
+OCO,13.0,14.0,Finished,Bearman,British Grand Prix,12,2025
+RUS,5.0,6.0,Finished,Antonelli,Belgian Grand Prix,13,2025
+LAW,8.0,9.0,Finished,Hadjar,Belgian Grand Prix,13,2025
+HUL,12.0,14.0,Finished,Bortoleto,Belgian Grand Prix,13,2025
+OCO,15.0,11.0,Finished,Bearman,Belgian Grand Prix,13,2025
+RUS,3.0,4.0,Finished,Antonelli,Hungarian Grand Prix,14,2025
+LAW,8.0,9.0,Finished,Hadjar,Hungarian Grand Prix,14,2025
+HUL,13.0,18.0,Lapped,Bortoleto,Hungarian Grand Prix,14,2025
+OCO,16.0,17.0,Lapped,Bearman,Hungarian Grand Prix,14,2025
+RUS,4.0,5.0,Finished,Antonelli,Dutch Grand Prix,15,2025
+LAW,12.0,8.0,Finished,Hadjar,Dutch Grand Prix,15,2025
+HUL,14.0,17.0,Finished,Bortoleto,Dutch Grand Prix,15,2025
+OCO,10.0,18.0,Finished,Bearman,Dutch Grand Prix,15,2025
+RUS,5.0,5.0,Finished,Antonelli,Italian Grand Prix,16,2025
+LAW,14.0,18.0,Finished,Hadjar,Italian Grand Prix,16,2025
+HUL,20.0,12.0,Did not start,Bortoleto,Italian Grand Prix,16,2025
+OCO,15.0,15.0,Lapped,Bearman,Italian Grand Prix,16,2025
+RUS,2.0,5.0,Finished,Antonelli,Azerbaijan Grand Prix,17,2025
+LAW,5.0,3.0,Finished,Hadjar,Azerbaijan Grand Prix,17,2025
+HUL,16.0,17.0,Finished,Bortoleto,Azerbaijan Grand Prix,17,2025
+OCO,14.0,20.0,Finished,Bearman,Azerbaijan Grand Prix,17,2025
+RUS,1.0,1.0,Finished,Antonelli,Singapore Grand Prix,18,2025
+LAW,15.0,12.0,Lapped,Hadjar,Singapore Grand Prix,18,2025
+HUL,20.0,11.0,Lapped,Bortoleto,Singapore Grand Prix,18,2025
+OCO,18.0,17.0,Lapped,Bearman,Singapore Grand Prix,18,2025
+RUS,6.0,4.0,Finished,Antonelli,United States Grand Prix,19,2025
+LAW,11.0,12.0,Finished,Hadjar,United States Grand Prix,19,2025
+HUL,8.0,11.0,Finished,Bortoleto,United States Grand Prix,19,2025
+OCO,15.0,17.0,Finished,Bearman,United States Grand Prix,19,2025
+RUS,7.0,4.0,Finished,Antonelli,Mexico City Grand Prix,20,2025
+LAW,20.0,15.0,Retired,Hadjar,Mexico City Grand Prix,20,2025
+HUL,19.0,13.0,Retired,Bortoleto,Mexico City Grand Prix,20,2025
+OCO,9.0,11.0,Finished,Bearman,Mexico City Grand Prix,20,2025
+RUS,4.0,6.0,Finished,Antonelli,São Paulo Grand Prix,21,2025
+LAW,7.0,7.0,Finished,Hadjar,São Paulo Grand Prix,21,2025
+HUL,9.0,10.0,Finished,Bortoleto,São Paulo Grand Prix,21,2025
+OCO,12.0,20.0,Finished,Bearman,São Paulo Grand Prix,21,2025
+RUS,2.0,4.0,Finished,Antonelli,Las Vegas Grand Prix,22,2025
+LAW,14.0,6.0,Lapped,Hadjar,Las Vegas Grand Prix,22,2025
+HUL,7.0,11.0,Finished,Bortoleto,Las Vegas Grand Prix,22,2025
+OCO,9.0,13.0,Finished,Bearman,Las Vegas Grand Prix,22,2025
+RUS,6.0,4.0,Finished,Antonelli,Qatar Grand Prix,23,2025
+LAW,9.0,12.0,Finished,Hadjar,Qatar Grand Prix,23,2025
+HUL,20.0,11.0,Retired,Bortoleto,Qatar Grand Prix,23,2025
+OCO,15.0,16.0,Lapped,Bearman,Qatar Grand Prix,23,2025
+RUS,5.0,4.0,Finished,Antonelli,Abu Dhabi Grand Prix,24,2025
+LAW,18.0,13.0,Lapped,Hadjar,Abu Dhabi Grand Prix,24,2025
+HUL,9.0,18.0,Finished,Bortoleto,Abu Dhabi Grand Prix,24,2025
+OCO,7.0,8.0,Finished,Bearman,Abu Dhabi Grand Prix,24,2025

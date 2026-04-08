@@ -1,0 +1,79 @@
+Driver,Year,Round,EventName,Position,Grid,RookiePoints,Status
+Hamilton,2007,1,Australian Grand Prix,3.0,4.0,6.0,Finished
+Hamilton,2007,2,Malaysian Grand Prix,2.0,4.0,8.0,Finished
+Hamilton,2007,3,Bahrain Grand Prix,2.0,2.0,8.0,Finished
+Hamilton,2007,4,Spanish Grand Prix,2.0,4.0,8.0,Finished
+Hamilton,2007,5,Monaco Grand Prix,2.0,2.0,8.0,Finished
+Hamilton,2007,6,Canadian Grand Prix,1.0,1.0,10.0,Finished
+Hamilton,2007,7,United States Grand Prix,1.0,1.0,10.0,Finished
+Hamilton,2007,8,French Grand Prix,3.0,2.0,6.0,Finished
+Hamilton,2007,9,British Grand Prix,3.0,1.0,6.0,Finished
+Hamilton,2007,10,European Grand Prix,9.0,10.0,0.0,+1 Lap
+Hamilton,2007,11,Hungarian Grand Prix,1.0,1.0,10.0,Finished
+Hamilton,2007,12,Turkish Grand Prix,5.0,2.0,4.0,Finished
+Hamilton,2007,13,Italian Grand Prix,2.0,2.0,8.0,Finished
+Hamilton,2007,14,Belgian Grand Prix,4.0,4.0,5.0,Finished
+Hamilton,2007,15,Japanese Grand Prix,1.0,1.0,10.0,Finished
+Hamilton,2007,16,Chinese Grand Prix,19.0,1.0,0.0,Spun off
+Hamilton,2007,17,Brazilian Grand Prix,7.0,2.0,2.0,+1 Lap
+Verstappen,2015,1,Australian Grand Prix,13.0,11.0,0.0,Engine
+Verstappen,2015,2,Malaysian Grand Prix,7.0,6.0,6.0,Finished
+Verstappen,2015,3,Chinese Grand Prix,17.0,13.0,0.0,Transmission
+Verstappen,2015,4,Bahrain Grand Prix,18.0,15.0,0.0,Electrical
+Verstappen,2015,5,Spanish Grand Prix,11.0,6.0,0.0,+1 Lap
+Verstappen,2015,6,Monaco Grand Prix,18.0,9.0,0.0,Accident
+Verstappen,2015,7,Canadian Grand Prix,15.0,19.0,0.0,+1 Lap
+Verstappen,2015,8,Austrian Grand Prix,8.0,7.0,4.0,+1 Lap
+Verstappen,2015,9,British Grand Prix,16.0,13.0,0.0,Spun off
+Verstappen,2015,10,Hungarian Grand Prix,4.0,9.0,12.0,Finished
+Verstappen,2015,11,Belgian Grand Prix,8.0,18.0,4.0,Finished
+Verstappen,2015,12,Italian Grand Prix,12.0,20.0,0.0,+1 Lap
+Verstappen,2015,13,Singapore Grand Prix,8.0,8.0,4.0,Finished
+Verstappen,2015,14,Japanese Grand Prix,9.0,17.0,2.0,Finished
+Verstappen,2015,15,Russian Grand Prix,10.0,9.0,1.0,Finished
+Verstappen,2015,16,United States Grand Prix,4.0,8.0,12.0,Finished
+Verstappen,2015,17,Mexican Grand Prix,9.0,8.0,2.0,Finished
+Verstappen,2015,18,Brazilian Grand Prix,9.0,9.0,2.0,+1 Lap
+Verstappen,2015,19,Abu Dhabi Grand Prix,16.0,11.0,0.0,+1 Lap
+Leclerc,2018,1,Australian Grand Prix,13.0,18.0,0.0,Finished
+Leclerc,2018,2,Bahrain Grand Prix,12.0,19.0,0.0,+1 Lap
+Leclerc,2018,3,Chinese Grand Prix,19.0,19.0,0.0,Finished
+Leclerc,2018,4,Azerbaijan Grand Prix,6.0,13.0,8.0,Finished
+Leclerc,2018,5,Spanish Grand Prix,10.0,14.0,1.0,+2 Laps
+Leclerc,2018,6,Monaco Grand Prix,18.0,14.0,0.0,Collision
+Leclerc,2018,7,Canadian Grand Prix,10.0,13.0,1.0,+1 Lap
+Leclerc,2018,8,French Grand Prix,10.0,8.0,1.0,Finished
+Leclerc,2018,9,Austrian Grand Prix,9.0,18.0,2.0,+1 Lap
+Leclerc,2018,10,British Grand Prix,19.0,9.0,0.0,Tyre
+Leclerc,2018,11,German Grand Prix,15.0,9.0,0.0,+1 Lap
+Leclerc,2018,12,Hungarian Grand Prix,20.0,17.0,0.0,Suspension
+Leclerc,2018,13,Belgian Grand Prix,18.0,12.0,0.0,Accident
+Leclerc,2018,14,Italian Grand Prix,11.0,15.0,0.0,+1 Lap
+Leclerc,2018,15,Singapore Grand Prix,9.0,13.0,2.0,+1 Lap
+Leclerc,2018,16,Russian Grand Prix,7.0,7.0,6.0,Finished
+Leclerc,2018,17,Japanese Grand Prix,18.0,10.0,0.0,Mechanical
+Leclerc,2018,18,United States Grand Prix,15.0,9.0,0.0,Collision damage
+Leclerc,2018,19,Mexican Grand Prix,7.0,9.0,6.0,+2 Laps
+Leclerc,2018,20,Brazilian Grand Prix,7.0,7.0,6.0,Finished
+Leclerc,2018,21,Abu Dhabi Grand Prix,7.0,8.0,6.0,Finished
+Norris,2019,1,Australian Grand Prix,12.0,8.0,0.0,+1 Lap
+Norris,2019,2,Bahrain Grand Prix,6.0,9.0,8.0,Finished
+Norris,2019,3,Chinese Grand Prix,18.0,15.0,0.0,Collision
+Norris,2019,4,Azerbaijan Grand Prix,8.0,7.0,4.0,Finished
+Norris,2019,5,Spanish Grand Prix,20.0,10.0,0.0,Collision
+Norris,2019,6,Monaco Grand Prix,11.0,12.0,0.0,Finished
+Norris,2019,7,Canadian Grand Prix,20.0,8.0,0.0,Suspension
+Norris,2019,8,French Grand Prix,9.0,5.0,2.0,+1 Lap
+Norris,2019,9,Austrian Grand Prix,6.0,5.0,8.0,+1 Lap
+Norris,2019,10,British Grand Prix,11.0,8.0,0.0,Finished
+Norris,2019,11,German Grand Prix,18.0,19.0,0.0,Power loss
+Norris,2019,12,Hungarian Grand Prix,9.0,7.0,2.0,+1 Lap
+Norris,2019,13,Belgian Grand Prix,11.0,11.0,0.0,Engine
+Norris,2019,14,Italian Grand Prix,10.0,16.0,1.0,+1 Lap
+Norris,2019,15,Singapore Grand Prix,7.0,9.0,6.0,Finished
+Norris,2019,16,Russian Grand Prix,8.0,7.0,4.0,Finished
+Norris,2019,17,Japanese Grand Prix,11.0,8.0,0.0,+1 Lap
+Norris,2019,18,Mexican Grand Prix,20.0,8.0,0.0,Withdrew
+Norris,2019,19,United States Grand Prix,7.0,8.0,6.0,Finished
+Norris,2019,20,Brazilian Grand Prix,8.0,10.0,4.0,Finished
+Norris,2019,21,Abu Dhabi Grand Prix,8.0,6.0,4.0,+1 Lap

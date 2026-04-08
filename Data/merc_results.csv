@@ -1,0 +1,55 @@
+Abbreviation,Position,GridPosition,Status,Points,EventName,Season,EventDate,Driver
+RUS,3.0,4.0,Finished,15.0,Australian Grand Prix,2025,2025-03-16,Russell
+ANT,4.0,16.0,Finished,12.0,Australian Grand Prix,2025,2025-03-16,Antonelli
+RUS,3.0,2.0,Finished,15.0,Chinese Grand Prix,2025,2025-03-23,Russell
+ANT,6.0,8.0,Finished,8.0,Chinese Grand Prix,2025,2025-03-23,Antonelli
+RUS,5.0,5.0,Finished,10.0,Japanese Grand Prix,2025,2025-04-06,Russell
+ANT,6.0,6.0,Finished,8.0,Japanese Grand Prix,2025,2025-04-06,Antonelli
+RUS,2.0,3.0,Finished,18.0,Bahrain Grand Prix,2025,2025-04-13,Russell
+ANT,11.0,5.0,Finished,0.0,Bahrain Grand Prix,2025,2025-04-13,Antonelli
+RUS,5.0,3.0,Finished,10.0,Saudi Arabian Grand Prix,2025,2025-04-20,Russell
+ANT,6.0,5.0,Finished,8.0,Saudi Arabian Grand Prix,2025,2025-04-20,Antonelli
+RUS,3.0,5.0,Finished,15.0,Miami Grand Prix,2025,2025-05-04,Russell
+ANT,6.0,3.0,Finished,8.0,Miami Grand Prix,2025,2025-05-04,Antonelli
+RUS,7.0,3.0,Finished,6.0,Emilia Romagna Grand Prix,2025,2025-05-18,Russell
+ANT,19.0,13.0,Retired,0.0,Emilia Romagna Grand Prix,2025,2025-05-18,Antonelli
+RUS,11.0,14.0,Lapped,0.0,Monaco Grand Prix,2025,2025-05-25,Russell
+ANT,18.0,15.0,Lapped,0.0,Monaco Grand Prix,2025,2025-05-25,Antonelli
+RUS,4.0,4.0,Finished,12.0,Spanish Grand Prix,2025,2025-06-01,Russell
+ANT,18.0,6.0,Retired,0.0,Spanish Grand Prix,2025,2025-06-01,Antonelli
+RUS,1.0,1.0,Finished,25.0,Canadian Grand Prix,2025,2025-06-15,Russell
+ANT,3.0,4.0,Finished,15.0,Canadian Grand Prix,2025,2025-06-15,Antonelli
+RUS,5.0,5.0,Finished,10.0,Austrian Grand Prix,2025,2025-06-29,Russell
+ANT,19.0,9.0,Retired,0.0,Austrian Grand Prix,2025,2025-06-29,Antonelli
+RUS,10.0,4.0,Finished,1.0,British Grand Prix,2025,2025-07-06,Russell
+ANT,16.0,10.0,Retired,0.0,British Grand Prix,2025,2025-07-06,Antonelli
+RUS,5.0,6.0,Finished,10.0,Belgian Grand Prix,2025,2025-07-27,Russell
+ANT,16.0,19.0,Finished,0.0,Belgian Grand Prix,2025,2025-07-27,Antonelli
+RUS,3.0,4.0,Finished,15.0,Hungarian Grand Prix,2025,2025-08-03,Russell
+ANT,10.0,15.0,Lapped,1.0,Hungarian Grand Prix,2025,2025-08-03,Antonelli
+RUS,4.0,5.0,Finished,12.0,Dutch Grand Prix,2025,2025-08-31,Russell
+ANT,16.0,11.0,Finished,0.0,Dutch Grand Prix,2025,2025-08-31,Antonelli
+RUS,5.0,5.0,Finished,10.0,Italian Grand Prix,2025,2025-09-07,Russell
+ANT,9.0,6.0,Finished,2.0,Italian Grand Prix,2025,2025-09-07,Antonelli
+RUS,2.0,5.0,Finished,18.0,Azerbaijan Grand Prix,2025,2025-09-21,Russell
+ANT,4.0,4.0,Finished,12.0,Azerbaijan Grand Prix,2025,2025-09-21,Antonelli
+RUS,1.0,1.0,Finished,25.0,Singapore Grand Prix,2025,2025-10-05,Russell
+ANT,5.0,4.0,Finished,10.0,Singapore Grand Prix,2025,2025-10-05,Antonelli
+RUS,6.0,4.0,Finished,8.0,United States Grand Prix,2025,2025-10-19,Russell
+ANT,13.0,7.0,Finished,0.0,United States Grand Prix,2025,2025-10-19,Antonelli
+ANT,6.0,6.0,Finished,8.0,Mexico City Grand Prix,2025,2025-10-26,Antonelli
+RUS,7.0,4.0,Finished,6.0,Mexico City Grand Prix,2025,2025-10-26,Russell
+ANT,2.0,2.0,Finished,18.0,São Paulo Grand Prix,2025,2025-11-09,Antonelli
+RUS,4.0,6.0,Finished,12.0,São Paulo Grand Prix,2025,2025-11-09,Russell
+RUS,2.0,4.0,Finished,18.0,Las Vegas Grand Prix,2025,2025-11-22,Russell
+ANT,3.0,17.0,Finished,15.0,Las Vegas Grand Prix,2025,2025-11-22,Antonelli
+ANT,5.0,5.0,Finished,10.0,Qatar Grand Prix,2025,2025-11-30,Antonelli
+RUS,6.0,4.0,Finished,8.0,Qatar Grand Prix,2025,2025-11-30,Russell
+RUS,5.0,4.0,Finished,10.0,Abu Dhabi Grand Prix,2025,2025-12-07,Russell
+ANT,15.0,14.0,Finished,0.0,Abu Dhabi Grand Prix,2025,2025-12-07,Antonelli
+RUS,1.0,1.0,Finished,25.0,Australian Grand Prix,2026,2026-03-08,Russell
+ANT,2.0,2.0,Finished,18.0,Australian Grand Prix,2026,2026-03-08,Antonelli
+ANT,1.0,1.0,Finished,25.0,Chinese Grand Prix,2026,2026-03-15,Antonelli
+RUS,2.0,2.0,Finished,18.0,Chinese Grand Prix,2026,2026-03-15,Russell
+ANT,1.0,1.0,Finished,25.0,Japanese Grand Prix,2026,2026-03-29,Antonelli
+RUS,4.0,2.0,Finished,12.0,Japanese Grand Prix,2026,2026-03-29,Russell
