@@ -1,0 +1,365 @@
+driver,year,round,race_name,date,constructor,grid,finish_pos,points,status,status_cat,laps,is_street,sprint_points
+GAS,2017,15,Malaysian Grand Prix,2017-10-01,Toro Rosso,15,14.0,0.0,+1 Lap,Classified,55,0,0.0
+GAS,2017,16,Japanese Grand Prix,2017-10-08,Toro Rosso,14,13.0,0.0,+1 Lap,Classified,52,0,0.0
+GAS,2017,18,Mexican Grand Prix,2017-10-29,Toro Rosso,20,13.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2017,19,Brazilian Grand Prix,2017-11-12,Toro Rosso,19,12.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2017,20,Abu Dhabi Grand Prix,2017-11-26,Toro Rosso,17,16.0,0.0,+1 Lap,Classified,54,0,0.0
+GAS,2018,1,Australian Grand Prix,2018-03-25,Toro Rosso,20,,0.0,Engine,Mechanical DNF,13,0,0.0
+GAS,2018,2,Bahrain Grand Prix,2018-04-08,Toro Rosso,5,4.0,12.0,Finished,Finished,57,0,0.0
+GAS,2018,3,Chinese Grand Prix,2018-04-15,Toro Rosso,17,18.0,0.0,Finished,Finished,56,0,0.0
+GAS,2018,4,Azerbaijan Grand Prix,2018-04-29,Toro Rosso,17,12.0,0.0,Finished,Finished,51,1,0.0
+GAS,2018,5,Spanish Grand Prix,2018-05-13,Toro Rosso,12,,0.0,Collision,Incident DNF,0,0,0.0
+GAS,2018,6,Monaco Grand Prix,2018-05-27,Toro Rosso,10,7.0,6.0,Finished,Finished,78,1,0.0
+GAS,2018,7,Canadian Grand Prix,2018-06-10,Toro Rosso,16,11.0,0.0,+1 Lap,Classified,67,0,0.0
+GAS,2018,8,French Grand Prix,2018-06-24,Toro Rosso,14,,0.0,Collision,Incident DNF,0,0,0.0
+GAS,2018,9,Austrian Grand Prix,2018-07-01,Toro Rosso,12,11.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2018,10,British Grand Prix,2018-07-08,Toro Rosso,14,13.0,0.0,Finished,Finished,52,0,0.0
+GAS,2018,11,German Grand Prix,2018-07-22,Toro Rosso,16,14.0,0.0,+1 Lap,Classified,66,0,0.0
+GAS,2018,12,Hungarian Grand Prix,2018-07-29,Toro Rosso,6,6.0,8.0,Finished,Finished,70,0,0.0
+GAS,2018,13,Belgian Grand Prix,2018-08-26,Toro Rosso,10,9.0,2.0,Finished,Finished,44,0,0.0
+GAS,2018,14,Italian Grand Prix,2018-09-02,Toro Rosso,9,14.0,0.0,+1 Lap,Classified,52,0,0.0
+GAS,2018,15,Singapore Grand Prix,2018-09-16,Toro Rosso,15,13.0,0.0,+1 Lap,Classified,60,1,0.0
+GAS,2018,16,Russian Grand Prix,2018-09-30,Toro Rosso,17,,0.0,Brakes,Mechanical DNF,4,0,0.0
+GAS,2018,17,Japanese Grand Prix,2018-10-07,Toro Rosso,7,11.0,0.0,+1 Lap,Classified,52,0,0.0
+GAS,2018,18,United States Grand Prix,2018-10-21,Toro Rosso,19,12.0,0.0,+1 Lap,Classified,55,0,0.0
+GAS,2018,19,Mexican Grand Prix,2018-10-28,Toro Rosso,20,10.0,1.0,+2 Laps,Classified,69,0,0.0
+GAS,2018,20,Brazilian Grand Prix,2018-11-11,Toro Rosso,9,13.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2018,21,Abu Dhabi Grand Prix,2018-11-25,Toro Rosso,17,,0.0,Engine,Mechanical DNF,46,0,0.0
+GAS,2019,1,Australian Grand Prix,2019-03-17,Red Bull,17,11.0,0.0,+1 Lap,Classified,57,0,0.0
+GAS,2019,2,Bahrain Grand Prix,2019-03-31,Red Bull,13,8.0,4.0,Finished,Finished,57,0,0.0
+GAS,2019,3,Chinese Grand Prix,2019-04-14,Red Bull,6,6.0,9.0,Finished,Finished,56,0,0.0
+GAS,2019,4,Azerbaijan Grand Prix,2019-04-28,Red Bull,0,,0.0,Transmission,Mechanical DNF,38,1,0.0
+GAS,2019,5,Spanish Grand Prix,2019-05-12,Red Bull,6,6.0,8.0,Finished,Finished,66,0,0.0
+GAS,2019,6,Monaco Grand Prix,2019-05-26,Red Bull,8,5.0,11.0,Finished,Finished,78,1,0.0
+GAS,2019,7,Canadian Grand Prix,2019-06-09,Red Bull,5,8.0,4.0,+1 Lap,Classified,69,0,0.0
+GAS,2019,8,French Grand Prix,2019-06-23,Red Bull,9,10.0,1.0,+1 Lap,Classified,52,0,0.0
+GAS,2019,9,Austrian Grand Prix,2019-06-30,Red Bull,8,7.0,6.0,+1 Lap,Classified,70,0,0.0
+GAS,2019,10,British Grand Prix,2019-07-14,Red Bull,5,4.0,12.0,Finished,Finished,52,0,0.0
+GAS,2019,11,German Grand Prix,2019-07-28,Red Bull,4,14.0,0.0,Collision,Incident DNF,61,0,0.0
+GAS,2019,12,Hungarian Grand Prix,2019-08-04,Red Bull,6,6.0,8.0,+1 Lap,Classified,69,0,0.0
+GAS,2019,13,Belgian Grand Prix,2019-09-01,Toro Rosso,13,9.0,2.0,Finished,Finished,44,0,0.0
+GAS,2019,14,Italian Grand Prix,2019-09-08,Toro Rosso,17,11.0,0.0,+1 Lap,Classified,52,0,0.0
+GAS,2019,15,Singapore Grand Prix,2019-09-22,Toro Rosso,11,8.0,4.0,Finished,Finished,61,1,0.0
+GAS,2019,16,Russian Grand Prix,2019-09-29,Toro Rosso,16,14.0,0.0,Finished,Finished,53,0,0.0
+GAS,2019,17,Japanese Grand Prix,2019-10-13,Toro Rosso,9,7.0,6.0,+1 Lap,Classified,51,0,0.0
+GAS,2019,18,Mexican Grand Prix,2019-10-27,Toro Rosso,10,9.0,2.0,+1 Lap,Classified,70,0,0.0
+GAS,2019,19,United States Grand Prix,2019-11-03,Toro Rosso,10,16.0,0.0,Suspension,Mechanical DNF,54,0,0.0
+GAS,2019,20,Brazilian Grand Prix,2019-11-17,Toro Rosso,6,2.0,18.0,Finished,Finished,71,0,0.0
+GAS,2019,21,Abu Dhabi Grand Prix,2019-12-01,Toro Rosso,11,18.0,0.0,+2 Laps,Classified,53,0,0.0
+GAS,2020,1,Austrian Grand Prix,2020-07-05,AlphaTauri,12,7.0,6.0,Finished,Finished,71,0,0.0
+GAS,2020,2,Styrian Grand Prix,2020-07-12,AlphaTauri,7,15.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2020,3,Hungarian Grand Prix,2020-07-19,AlphaTauri,10,,0.0,Engine,Mechanical DNF,15,0,0.0
+GAS,2020,4,British Grand Prix,2020-08-02,AlphaTauri,11,7.0,6.0,Finished,Finished,52,0,0.0
+GAS,2020,5,70th Anniversary Grand Prix,2020-08-09,AlphaTauri,7,11.0,0.0,Finished,Finished,52,0,0.0
+GAS,2020,6,Spanish Grand Prix,2020-08-16,AlphaTauri,10,9.0,2.0,+1 Lap,Classified,65,0,0.0
+GAS,2020,7,Belgian Grand Prix,2020-08-30,AlphaTauri,12,8.0,4.0,Finished,Finished,44,0,0.0
+GAS,2020,8,Italian Grand Prix,2020-09-06,AlphaTauri,10,1.0,25.0,Finished,Finished,53,0,0.0
+GAS,2020,9,Tuscan Grand Prix,2020-09-13,AlphaTauri,16,,0.0,Collision,Incident DNF,0,0,0.0
+GAS,2020,10,Russian Grand Prix,2020-09-27,AlphaTauri,9,9.0,2.0,Finished,Finished,53,0,0.0
+GAS,2020,11,Eifel Grand Prix,2020-10-11,AlphaTauri,12,6.0,8.0,Finished,Finished,60,0,0.0
+GAS,2020,12,Portuguese Grand Prix,2020-10-25,AlphaTauri,9,5.0,10.0,+1 Lap,Classified,65,0,0.0
+GAS,2020,13,Emilia Romagna Grand Prix,2020-11-01,AlphaTauri,4,,0.0,Water pressure,Other DNF,8,0,0.0
+GAS,2020,14,Turkish Grand Prix,2020-11-15,AlphaTauri,19,13.0,0.0,+1 Lap,Classified,57,0,0.0
+GAS,2020,15,Bahrain Grand Prix,2020-11-29,AlphaTauri,8,6.0,8.0,Finished,Finished,57,0,0.0
+GAS,2020,16,Sakhir Grand Prix,2020-12-06,AlphaTauri,9,11.0,0.0,Finished,Finished,87,0,0.0
+GAS,2020,17,Abu Dhabi Grand Prix,2020-12-13,AlphaTauri,9,8.0,4.0,Finished,Finished,55,0,0.0
+GAS,2021,1,Bahrain Grand Prix,2021-03-28,AlphaTauri,5,17.0,0.0,Retired,Retired (cause unknown),52,0,0.0
+GAS,2021,2,Emilia Romagna Grand Prix,2021-04-18,AlphaTauri,5,7.0,6.0,Finished,Finished,63,0,0.0
+GAS,2021,3,Portuguese Grand Prix,2021-05-02,AlphaTauri,9,10.0,1.0,Finished,Finished,66,0,0.0
+GAS,2021,4,Spanish Grand Prix,2021-05-09,AlphaTauri,12,10.0,1.0,+1 Lap,Classified,65,0,0.0
+GAS,2021,5,Monaco Grand Prix,2021-05-23,AlphaTauri,6,6.0,8.0,Finished,Finished,78,1,0.0
+GAS,2021,6,Azerbaijan Grand Prix,2021-06-06,AlphaTauri,4,3.0,15.0,Finished,Finished,51,1,0.0
+GAS,2021,7,French Grand Prix,2021-06-20,AlphaTauri,6,7.0,6.0,Finished,Finished,53,0,0.0
+GAS,2021,8,Styrian Grand Prix,2021-06-27,AlphaTauri,6,,0.0,Collision,Incident DNF,1,0,0.0
+GAS,2021,9,Austrian Grand Prix,2021-07-04,AlphaTauri,6,9.0,2.0,Finished,Finished,71,0,0.0
+GAS,2021,10,British Grand Prix,2021-07-18,AlphaTauri,11,11.0,0.0,Finished,Finished,52,0,0.0
+GAS,2021,11,Hungarian Grand Prix,2021-08-01,AlphaTauri,5,5.0,11.0,Finished,Finished,70,0,0.0
+GAS,2021,12,Belgian Grand Prix,2021-08-29,AlphaTauri,6,6.0,4.0,Finished,Finished,1,0,0.0
+GAS,2021,13,Dutch Grand Prix,2021-09-05,AlphaTauri,4,4.0,12.0,+1 Lap,Classified,71,0,0.0
+GAS,2021,14,Italian Grand Prix,2021-09-12,AlphaTauri,0,,0.0,Suspension,Mechanical DNF,3,0,0.0
+GAS,2021,15,Russian Grand Prix,2021-09-26,AlphaTauri,11,13.0,0.0,+1 Lap,Classified,52,0,0.0
+GAS,2021,16,Turkish Grand Prix,2021-10-10,AlphaTauri,4,6.0,8.0,Finished,Finished,58,0,0.0
+GAS,2021,17,United States Grand Prix,2021-10-24,AlphaTauri,8,,0.0,Suspension,Mechanical DNF,14,0,0.0
+GAS,2021,18,Mexico City Grand Prix,2021-11-07,AlphaTauri,5,4.0,12.0,Finished,Finished,71,0,0.0
+GAS,2021,19,São Paulo Grand Prix,2021-11-14,AlphaTauri,7,7.0,6.0,+1 Lap,Classified,70,0,0.0
+GAS,2021,20,Qatar Grand Prix,2021-11-21,AlphaTauri,2,11.0,0.0,+1 Lap,Classified,56,0,0.0
+GAS,2021,21,Saudi Arabian Grand Prix,2021-12-05,AlphaTauri,6,6.0,8.0,Finished,Finished,50,1,0.0
+GAS,2021,22,Abu Dhabi Grand Prix,2021-12-12,AlphaTauri,12,5.0,10.0,Finished,Finished,58,0,0.0
+GAS,2022,1,Bahrain Grand Prix,2022-03-20,AlphaTauri,10,,0.0,Power Unit,Mechanical DNF,44,0,0.0
+GAS,2022,2,Saudi Arabian Grand Prix,2022-03-27,AlphaTauri,9,8.0,4.0,Finished,Finished,50,1,0.0
+GAS,2022,3,Australian Grand Prix,2022-04-10,AlphaTauri,11,9.0,2.0,Finished,Finished,58,0,0.0
+GAS,2022,4,Emilia Romagna Grand Prix,2022-04-24,AlphaTauri,17,12.0,0.0,+1 Lap,Classified,62,0,0.0
+GAS,2022,5,Miami Grand Prix,2022-05-08,AlphaTauri,7,,0.0,Suspension,Mechanical DNF,45,0,0.0
+GAS,2022,6,Spanish Grand Prix,2022-05-22,AlphaTauri,14,13.0,0.0,+1 Lap,Classified,65,0,0.0
+GAS,2022,7,Monaco Grand Prix,2022-05-29,AlphaTauri,17,11.0,0.0,Finished,Finished,64,1,0.0
+GAS,2022,8,Azerbaijan Grand Prix,2022-06-12,AlphaTauri,6,5.0,10.0,Finished,Finished,51,1,0.0
+GAS,2022,9,Canadian Grand Prix,2022-06-19,AlphaTauri,15,14.0,0.0,Finished,Finished,70,0,0.0
+GAS,2022,10,British Grand Prix,2022-07-03,AlphaTauri,11,,0.0,Collision damage,Incident DNF,26,0,0.0
+GAS,2022,11,Austrian Grand Prix,2022-07-10,AlphaTauri,14,15.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2022,12,French Grand Prix,2022-07-24,AlphaTauri,14,12.0,0.0,Finished,Finished,53,0,0.0
+GAS,2022,13,Hungarian Grand Prix,2022-07-31,AlphaTauri,0,12.0,0.0,+1 Lap,Classified,69,0,0.0
+GAS,2022,14,Belgian Grand Prix,2022-08-28,AlphaTauri,0,9.0,2.0,Finished,Finished,44,0,0.0
+GAS,2022,15,Dutch Grand Prix,2022-09-04,AlphaTauri,11,11.0,0.0,Finished,Finished,72,0,0.0
+GAS,2022,16,Italian Grand Prix,2022-09-11,AlphaTauri,5,8.0,4.0,Finished,Finished,53,0,0.0
+GAS,2022,17,Singapore Grand Prix,2022-10-02,AlphaTauri,7,10.0,1.0,Finished,Finished,59,1,0.0
+GAS,2022,18,Japanese Grand Prix,2022-10-09,AlphaTauri,17,18.0,0.0,Finished,Finished,28,0,0.0
+GAS,2022,19,United States Grand Prix,2022-10-23,AlphaTauri,11,14.0,0.0,Finished,Finished,56,0,0.0
+GAS,2022,20,Mexico City Grand Prix,2022-10-30,AlphaTauri,14,11.0,0.0,+1 Lap,Classified,70,0,0.0
+GAS,2022,21,São Paulo Grand Prix,2022-11-13,AlphaTauri,10,14.0,0.0,Finished,Finished,71,0,0.0
+GAS,2022,22,Abu Dhabi Grand Prix,2022-11-20,AlphaTauri,17,14.0,0.0,+1 Lap,Classified,57,0,0.0
+GAS,2023,1,Bahrain Grand Prix,2023-03-05,Alpine F1 Team,20,9.0,2.0,Finished,Finished,57,0,0.0
+GAS,2023,2,Saudi Arabian Grand Prix,2023-03-19,Alpine F1 Team,9,9.0,2.0,Finished,Finished,50,1,0.0
+GAS,2023,3,Australian Grand Prix,2023-04-02,Alpine F1 Team,9,13.0,0.0,Retired,Retired (cause unknown),56,0,0.0
+GAS,2023,4,Azerbaijan Grand Prix,2023-04-30,Alpine F1 Team,17,14.0,0.0,Finished,Finished,51,1,0.0
+GAS,2023,5,Miami Grand Prix,2023-05-07,Alpine F1 Team,5,8.0,4.0,Finished,Finished,57,0,0.0
+GAS,2023,6,Monaco Grand Prix,2023-05-28,Alpine F1 Team,7,7.0,6.0,Finished,Finished,78,1,0.0
+GAS,2023,7,Spanish Grand Prix,2023-06-04,Alpine F1 Team,10,10.0,1.0,Finished,Finished,66,0,0.0
+GAS,2023,8,Canadian Grand Prix,2023-06-18,Alpine F1 Team,15,12.0,0.0,Finished,Finished,70,0,0.0
+GAS,2023,9,Austrian Grand Prix,2023-07-02,Alpine F1 Team,9,10.0,1.0,Finished,Finished,71,0,0.0
+GAS,2023,10,British Grand Prix,2023-07-09,Alpine F1 Team,10,18.0,0.0,Retired,Retired (cause unknown),46,0,0.0
+GAS,2023,11,Hungarian Grand Prix,2023-07-23,Alpine F1 Team,15,,0.0,Retired,Retired (cause unknown),1,0,0.0
+GAS,2023,12,Belgian Grand Prix,2023-07-30,Alpine F1 Team,12,11.0,0.0,Finished,Finished,44,0,6.0
+GAS,2023,13,Dutch Grand Prix,2023-08-27,Alpine F1 Team,12,3.0,15.0,Finished,Finished,72,0,0.0
+GAS,2023,14,Italian Grand Prix,2023-09-03,Alpine F1 Team,17,15.0,0.0,Finished,Finished,51,0,0.0
+GAS,2023,15,Singapore Grand Prix,2023-09-17,Alpine F1 Team,12,6.0,8.0,Finished,Finished,62,1,0.0
+GAS,2023,16,Japanese Grand Prix,2023-09-24,Alpine F1 Team,12,10.0,1.0,Finished,Finished,53,0,0.0
+GAS,2023,17,Qatar Grand Prix,2023-10-08,Alpine F1 Team,7,12.0,0.0,Finished,Finished,57,0,0.0
+GAS,2023,18,United States Grand Prix,2023-10-22,Alpine F1 Team,7,6.0,8.0,Finished,Finished,56,0,2.0
+GAS,2023,19,Mexico City Grand Prix,2023-10-29,Alpine F1 Team,11,11.0,0.0,Finished,Finished,71,0,0.0
+GAS,2023,20,São Paulo Grand Prix,2023-11-05,Alpine F1 Team,15,7.0,6.0,Finished,Finished,71,0,0.0
+GAS,2023,21,Las Vegas Grand Prix,2023-11-19,Alpine F1 Team,4,11.0,0.0,Finished,Finished,50,1,0.0
+GAS,2023,22,Abu Dhabi Grand Prix,2023-11-26,Alpine F1 Team,10,13.0,0.0,Finished,Finished,58,0,0.0
+GAS,2024,1,Bahrain Grand Prix,2024-03-02,Alpine F1 Team,20,18.0,0.0,Lapped,Classified,56,0,0.0
+GAS,2024,2,Saudi Arabian Grand Prix,2024-03-09,Alpine F1 Team,18,,0.0,Retired,Retired (cause unknown),1,1,0.0
+GAS,2024,3,Australian Grand Prix,2024-03-24,Alpine F1 Team,17,13.0,0.0,Lapped,Classified,57,0,0.0
+GAS,2024,4,Japanese Grand Prix,2024-04-07,Alpine F1 Team,17,16.0,0.0,Lapped,Classified,52,0,0.0
+GAS,2024,5,Chinese Grand Prix,2024-04-21,Alpine F1 Team,15,13.0,0.0,Finished,Finished,56,0,0.0
+GAS,2024,6,Miami Grand Prix,2024-05-05,Alpine F1 Team,12,12.0,0.0,Finished,Finished,57,0,0.0
+GAS,2024,7,Emilia Romagna Grand Prix,2024-05-19,Alpine F1 Team,15,16.0,0.0,Lapped,Classified,62,0,0.0
+GAS,2024,8,Monaco Grand Prix,2024-05-26,Alpine F1 Team,10,10.0,1.0,Lapped,Classified,77,1,0.0
+GAS,2024,9,Canadian Grand Prix,2024-06-09,Alpine F1 Team,15,9.0,2.0,Finished,Finished,70,0,0.0
+GAS,2024,10,Spanish Grand Prix,2024-06-23,Alpine F1 Team,7,9.0,2.0,Finished,Finished,66,0,0.0
+GAS,2024,11,Austrian Grand Prix,2024-06-30,Alpine F1 Team,13,10.0,1.0,Finished,Finished,71,0,0.0
+GAS,2024,12,British Grand Prix,2024-07-07,Alpine F1 Team,19,,0.0,Did not start,Retired (cause unknown),0,0,0.0
+GAS,2024,13,Hungarian Grand Prix,2024-07-21,Alpine F1 Team,20,,0.0,Retired,Retired (cause unknown),33,0,0.0
+GAS,2024,14,Belgian Grand Prix,2024-07-28,Alpine F1 Team,12,13.0,0.0,Finished,Finished,44,0,0.0
+GAS,2024,15,Dutch Grand Prix,2024-08-25,Alpine F1 Team,9,9.0,2.0,Lapped,Classified,71,0,0.0
+GAS,2024,16,Italian Grand Prix,2024-09-01,Alpine F1 Team,14,15.0,0.0,Lapped,Classified,52,0,0.0
+GAS,2024,17,Azerbaijan Grand Prix,2024-09-15,Alpine F1 Team,18,12.0,0.0,Finished,Finished,51,1,0.0
+GAS,2024,18,Singapore Grand Prix,2024-09-22,Alpine F1 Team,18,17.0,0.0,Lapped,Classified,61,1,0.0
+GAS,2024,19,United States Grand Prix,2024-10-20,Alpine F1 Team,6,12.0,0.0,Finished,Finished,56,0,0.0
+GAS,2024,20,Mexico City Grand Prix,2024-10-27,Alpine F1 Team,8,10.0,1.0,Lapped,Classified,70,0,0.0
+GAS,2024,21,São Paulo Grand Prix,2024-11-03,Alpine F1 Team,13,3.0,15.0,Finished,Finished,69,0,2.0
+GAS,2024,22,Las Vegas Grand Prix,2024-11-23,Alpine F1 Team,3,,0.0,Retired,Retired (cause unknown),15,1,0.0
+GAS,2024,23,Qatar Grand Prix,2024-12-01,Alpine F1 Team,11,5.0,10.0,Finished,Finished,57,0,0.0
+GAS,2024,24,Abu Dhabi Grand Prix,2024-12-08,Alpine F1 Team,5,7.0,6.0,Finished,Finished,58,0,0.0
+GAS,2025,1,Australian Grand Prix,2025-03-16,Alpine F1 Team,9,11.0,0.0,Finished,Finished,57,0,0.0
+GAS,2025,2,Chinese Grand Prix,2025-03-23,Alpine F1 Team,16,,0.0,Disqualified,Other DNF,0,0,0.0
+GAS,2025,3,Japanese Grand Prix,2025-04-06,Alpine F1 Team,11,13.0,0.0,Finished,Finished,53,0,0.0
+GAS,2025,4,Bahrain Grand Prix,2025-04-13,Alpine F1 Team,4,7.0,6.0,Finished,Finished,57,0,0.0
+GAS,2025,5,Saudi Arabian Grand Prix,2025-04-20,Alpine F1 Team,9,,0.0,Retired,Retired (cause unknown),0,1,0.0
+GAS,2025,6,Miami Grand Prix,2025-05-04,Alpine F1 Team,20,13.0,0.0,Finished,Finished,57,0,1.0
+GAS,2025,7,Emilia Romagna Grand Prix,2025-05-18,Alpine F1 Team,10,13.0,0.0,Finished,Finished,63,0,0.0
+GAS,2025,8,Monaco Grand Prix,2025-05-25,Alpine F1 Team,17,,0.0,Retired,Retired (cause unknown),7,1,0.0
+GAS,2025,9,Spanish Grand Prix,2025-06-01,Alpine F1 Team,8,8.0,4.0,Finished,Finished,66,0,0.0
+GAS,2025,10,Canadian Grand Prix,2025-06-15,Alpine F1 Team,20,15.0,0.0,Lapped,Classified,69,0,0.0
+GAS,2025,11,Austrian Grand Prix,2025-06-29,Alpine F1 Team,10,13.0,0.0,Lapped,Classified,69,0,0.0
+GAS,2025,12,British Grand Prix,2025-07-06,Alpine F1 Team,8,6.0,8.0,Finished,Finished,52,0,0.0
+GAS,2025,13,Belgian Grand Prix,2025-07-27,Alpine F1 Team,13,10.0,1.0,Finished,Finished,44,0,0.0
+GAS,2025,14,Hungarian Grand Prix,2025-08-03,Alpine F1 Team,16,19.0,0.0,Lapped,Classified,69,0,0.0
+GAS,2025,15,Dutch Grand Prix,2025-08-31,Alpine F1 Team,14,17.0,0.0,Finished,Finished,72,0,0.0
+GAS,2025,16,Italian Grand Prix,2025-09-07,Alpine F1 Team,20,16.0,0.0,Lapped,Classified,52,0,0.0
+GAS,2025,17,Azerbaijan Grand Prix,2025-09-21,Alpine F1 Team,18,18.0,0.0,Lapped,Classified,50,1,0.0
+GAS,2025,18,Singapore Grand Prix,2025-10-05,Alpine F1 Team,19,19.0,0.0,Lapped,Classified,61,1,0.0
+GAS,2025,19,United States Grand Prix,2025-10-19,Alpine F1 Team,14,19.0,0.0,Lapped,Classified,55,0,0.0
+GAS,2025,20,Mexico City Grand Prix,2025-10-26,Alpine F1 Team,18,15.0,0.0,Lapped,Classified,70,0,0.0
+GAS,2025,21,São Paulo Grand Prix,2025-11-09,Alpine F1 Team,9,10.0,1.0,Finished,Finished,71,0,1.0
+GAS,2025,22,Las Vegas Grand Prix,2025-11-23,Alpine F1 Team,10,13.0,0.0,Finished,Finished,50,1,0.0
+GAS,2025,23,Qatar Grand Prix,2025-11-30,Alpine F1 Team,9,16.0,0.0,Lapped,Classified,56,0,0.0
+GAS,2025,24,Abu Dhabi Grand Prix,2025-12-07,Alpine F1 Team,19,19.0,0.0,Lapped,Classified,57,0,0.0
+GAS,2026,1,Australian Grand Prix,2026-03-08,Alpine F1 Team,14,10.0,1.0,Lapped,Classified,57,0,0.0
+GAS,2026,2,Chinese Grand Prix,2026-03-15,Alpine F1 Team,7,6.0,8.0,Finished,Finished,56,0,0.0
+GAS,2026,3,Japanese Grand Prix,2026-03-29,Alpine F1 Team,7,7.0,6.0,Finished,Finished,53,0,0.0
+OCO,2016,13,Belgian Grand Prix,2016-08-28,Manor Marussia,17,16.0,0.0,+1 Lap,Classified,43,0,0.0
+OCO,2016,14,Italian Grand Prix,2016-09-04,Manor Marussia,22,18.0,0.0,+2 Laps,Classified,51,0,0.0
+OCO,2016,15,Singapore Grand Prix,2016-09-18,Manor Marussia,21,18.0,0.0,+2 Laps,Classified,59,1,0.0
+OCO,2016,16,Malaysian Grand Prix,2016-10-02,Manor Marussia,20,16.0,0.0,+1 Lap,Classified,55,0,0.0
+OCO,2016,17,Japanese Grand Prix,2016-10-09,Manor Marussia,20,21.0,0.0,+1 Lap,Classified,52,0,0.0
+OCO,2016,18,United States Grand Prix,2016-10-23,Manor Marussia,22,18.0,0.0,+2 Laps,Classified,54,0,0.0
+OCO,2016,19,Mexican Grand Prix,2016-10-30,Manor Marussia,20,21.0,0.0,+2 Laps,Classified,69,0,0.0
+OCO,2016,20,Brazilian Grand Prix,2016-11-13,Manor Marussia,22,12.0,0.0,Finished,Finished,71,0,0.0
+OCO,2016,21,Abu Dhabi Grand Prix,2016-11-27,Manor Marussia,20,13.0,0.0,+1 Lap,Classified,54,0,0.0
+OCO,2017,1,Australian Grand Prix,2017-03-26,Force India,13,10.0,1.0,+1 Lap,Classified,56,0,0.0
+OCO,2017,2,Chinese Grand Prix,2017-04-09,Force India,17,10.0,1.0,+1 Lap,Classified,55,0,0.0
+OCO,2017,3,Bahrain Grand Prix,2017-04-16,Force India,14,10.0,1.0,Finished,Finished,57,0,0.0
+OCO,2017,4,Russian Grand Prix,2017-04-30,Force India,10,7.0,6.0,Finished,Finished,52,0,0.0
+OCO,2017,5,Spanish Grand Prix,2017-05-14,Force India,10,5.0,10.0,+1 Lap,Classified,65,0,0.0
+OCO,2017,6,Monaco Grand Prix,2017-05-28,Force India,15,12.0,0.0,Finished,Finished,78,1,0.0
+OCO,2017,7,Canadian Grand Prix,2017-06-11,Force India,9,6.0,8.0,Finished,Finished,70,0,0.0
+OCO,2017,8,Azerbaijan Grand Prix,2017-06-25,Force India,7,6.0,8.0,Finished,Finished,51,1,0.0
+OCO,2017,9,Austrian Grand Prix,2017-07-09,Force India,9,8.0,4.0,+1 Lap,Classified,70,0,0.0
+OCO,2017,10,British Grand Prix,2017-07-16,Force India,7,8.0,4.0,+1 Lap,Classified,50,0,0.0
+OCO,2017,11,Hungarian Grand Prix,2017-07-30,Force India,11,9.0,2.0,+1 Lap,Classified,69,0,0.0
+OCO,2017,12,Belgian Grand Prix,2017-08-27,Force India,9,9.0,2.0,Finished,Finished,44,0,0.0
+OCO,2017,13,Italian Grand Prix,2017-09-03,Force India,3,6.0,8.0,Finished,Finished,53,0,0.0
+OCO,2017,14,Singapore Grand Prix,2017-09-17,Force India,14,10.0,1.0,Finished,Finished,58,1,0.0
+OCO,2017,15,Malaysian Grand Prix,2017-10-01,Force India,6,10.0,1.0,+1 Lap,Classified,55,0,0.0
+OCO,2017,16,Japanese Grand Prix,2017-10-08,Force India,5,6.0,8.0,Finished,Finished,53,0,0.0
+OCO,2017,17,United States Grand Prix,2017-10-22,Force India,6,6.0,8.0,Finished,Finished,56,0,0.0
+OCO,2017,18,Mexican Grand Prix,2017-10-29,Force India,6,5.0,10.0,+1 Lap,Classified,70,0,0.0
+OCO,2017,19,Brazilian Grand Prix,2017-11-12,Force India,10,,0.0,Accident,Incident DNF,0,0,0.0
+OCO,2017,20,Abu Dhabi Grand Prix,2017-11-26,Force India,9,8.0,4.0,Finished,Finished,55,0,0.0
+OCO,2018,1,Australian Grand Prix,2018-03-25,Force India,14,12.0,0.0,Finished,Finished,58,0,0.0
+OCO,2018,2,Bahrain Grand Prix,2018-04-08,Force India,8,10.0,1.0,+1 Lap,Classified,56,0,0.0
+OCO,2018,3,Chinese Grand Prix,2018-04-15,Force India,12,11.0,0.0,Finished,Finished,56,0,0.0
+OCO,2018,4,Azerbaijan Grand Prix,2018-04-29,Force India,7,,0.0,Collision,Incident DNF,0,1,0.0
+OCO,2018,5,Spanish Grand Prix,2018-05-13,Force India,13,,0.0,Oil leak,Mechanical DNF,38,0,0.0
+OCO,2018,6,Monaco Grand Prix,2018-05-27,Force India,6,6.0,8.0,Finished,Finished,78,1,0.0
+OCO,2018,7,Canadian Grand Prix,2018-06-10,Force India,8,9.0,2.0,+1 Lap,Classified,67,0,0.0
+OCO,2018,8,French Grand Prix,2018-06-24,Force India,11,,0.0,Collision,Incident DNF,0,0,0.0
+OCO,2018,9,Austrian Grand Prix,2018-07-01,Force India,11,6.0,8.0,+1 Lap,Classified,70,0,0.0
+OCO,2018,10,British Grand Prix,2018-07-08,Force India,10,7.0,6.0,Finished,Finished,52,0,0.0
+OCO,2018,11,German Grand Prix,2018-07-22,Force India,15,8.0,4.0,Finished,Finished,67,0,0.0
+OCO,2018,12,Hungarian Grand Prix,2018-07-29,Force India,18,13.0,0.0,+1 Lap,Classified,69,0,0.0
+OCO,2018,13,Belgian Grand Prix,2018-08-26,Force India,3,6.0,8.0,Finished,Finished,44,0,0.0
+OCO,2018,14,Italian Grand Prix,2018-09-02,Force India,8,6.0,8.0,Finished,Finished,53,0,0.0
+OCO,2018,15,Singapore Grand Prix,2018-09-16,Force India,9,,0.0,Collision,Incident DNF,0,1,0.0
+OCO,2018,16,Russian Grand Prix,2018-09-30,Force India,6,9.0,2.0,+1 Lap,Classified,52,0,0.0
+OCO,2018,17,Japanese Grand Prix,2018-10-07,Force India,11,9.0,2.0,Finished,Finished,53,0,0.0
+OCO,2018,18,United States Grand Prix,2018-10-21,Force India,6,,0.0,Disqualified,Other DNF,56,0,0.0
+OCO,2018,19,Mexican Grand Prix,2018-10-28,Force India,11,11.0,0.0,+2 Laps,Classified,69,0,0.0
+OCO,2018,20,Brazilian Grand Prix,2018-11-11,Force India,18,15.0,0.0,+1 Lap,Classified,70,0,0.0
+OCO,2018,21,Abu Dhabi Grand Prix,2018-11-25,Force India,9,,0.0,Engine,Mechanical DNF,44,0,0.0
+OCO,2020,1,Austrian Grand Prix,2020-07-05,Renault,14,8.0,4.0,Finished,Finished,71,0,0.0
+OCO,2020,2,Styrian Grand Prix,2020-07-12,Renault,5,,0.0,Overheating,Mechanical DNF,25,0,0.0
+OCO,2020,3,Hungarian Grand Prix,2020-07-19,Renault,14,14.0,0.0,+1 Lap,Classified,69,0,0.0
+OCO,2020,4,British Grand Prix,2020-08-02,Renault,9,6.0,8.0,Finished,Finished,52,0,0.0
+OCO,2020,5,70th Anniversary Grand Prix,2020-08-09,Renault,14,8.0,4.0,Finished,Finished,52,0,0.0
+OCO,2020,6,Spanish Grand Prix,2020-08-16,Renault,15,13.0,0.0,+1 Lap,Classified,65,0,0.0
+OCO,2020,7,Belgian Grand Prix,2020-08-30,Renault,6,5.0,10.0,Finished,Finished,44,0,0.0
+OCO,2020,8,Italian Grand Prix,2020-09-06,Renault,12,8.0,4.0,Finished,Finished,53,0,0.0
+OCO,2020,9,Tuscan Grand Prix,2020-09-13,Renault,10,,0.0,Brakes,Mechanical DNF,7,0,0.0
+OCO,2020,10,Russian Grand Prix,2020-09-27,Renault,7,7.0,6.0,Finished,Finished,53,0,0.0
+OCO,2020,11,Eifel Grand Prix,2020-10-11,Renault,7,,0.0,Gearbox,Mechanical DNF,22,0,0.0
+OCO,2020,12,Portuguese Grand Prix,2020-10-25,Renault,11,8.0,4.0,+1 Lap,Classified,65,0,0.0
+OCO,2020,13,Emilia Romagna Grand Prix,2020-11-01,Renault,12,,0.0,Gearbox,Mechanical DNF,27,0,0.0
+OCO,2020,14,Turkish Grand Prix,2020-11-15,Renault,7,11.0,0.0,+1 Lap,Classified,57,0,0.0
+OCO,2020,15,Bahrain Grand Prix,2020-11-29,Renault,7,9.0,2.0,Finished,Finished,57,0,0.0
+OCO,2020,16,Sakhir Grand Prix,2020-12-06,Renault,11,2.0,18.0,Finished,Finished,87,0,0.0
+OCO,2020,17,Abu Dhabi Grand Prix,2020-12-13,Renault,10,9.0,2.0,Finished,Finished,55,0,0.0
+OCO,2021,1,Bahrain Grand Prix,2021-03-28,Alpine F1 Team,16,13.0,0.0,+1 Lap,Classified,55,0,0.0
+OCO,2021,2,Emilia Romagna Grand Prix,2021-04-18,Alpine F1 Team,9,9.0,2.0,Finished,Finished,63,0,0.0
+OCO,2021,3,Portuguese Grand Prix,2021-05-02,Alpine F1 Team,6,7.0,6.0,Finished,Finished,66,0,0.0
+OCO,2021,4,Spanish Grand Prix,2021-05-09,Alpine F1 Team,5,9.0,2.0,+1 Lap,Classified,65,0,0.0
+OCO,2021,5,Monaco Grand Prix,2021-05-23,Alpine F1 Team,11,9.0,2.0,+1 Lap,Classified,77,1,0.0
+OCO,2021,6,Azerbaijan Grand Prix,2021-06-06,Alpine F1 Team,12,,0.0,Turbo,Mechanical DNF,3,1,0.0
+OCO,2021,7,French Grand Prix,2021-06-20,Alpine F1 Team,11,14.0,0.0,+1 Lap,Classified,52,0,0.0
+OCO,2021,8,Styrian Grand Prix,2021-06-27,Alpine F1 Team,17,14.0,0.0,+1 Lap,Classified,70,0,0.0
+OCO,2021,9,Austrian Grand Prix,2021-07-04,Alpine F1 Team,17,,0.0,Collision,Incident DNF,0,0,0.0
+OCO,2021,10,British Grand Prix,2021-07-18,Alpine F1 Team,9,9.0,2.0,Finished,Finished,52,0,0.0
+OCO,2021,11,Hungarian Grand Prix,2021-08-01,Alpine F1 Team,8,1.0,25.0,Finished,Finished,70,0,0.0
+OCO,2021,12,Belgian Grand Prix,2021-08-29,Alpine F1 Team,8,7.0,3.0,Finished,Finished,1,0,0.0
+OCO,2021,13,Dutch Grand Prix,2021-09-05,Alpine F1 Team,8,9.0,2.0,+1 Lap,Classified,71,0,0.0
+OCO,2021,14,Italian Grand Prix,2021-09-12,Alpine F1 Team,12,10.0,1.0,Finished,Finished,53,0,0.0
+OCO,2021,15,Russian Grand Prix,2021-09-26,Alpine F1 Team,9,14.0,0.0,+1 Lap,Classified,52,0,0.0
+OCO,2021,16,Turkish Grand Prix,2021-10-10,Alpine F1 Team,12,10.0,1.0,+1 Lap,Classified,57,0,0.0
+OCO,2021,17,United States Grand Prix,2021-10-24,Alpine F1 Team,11,,0.0,Mechanical,Other DNF,40,0,0.0
+OCO,2021,18,Mexico City Grand Prix,2021-11-07,Alpine F1 Team,19,13.0,0.0,+1 Lap,Classified,70,0,0.0
+OCO,2021,19,São Paulo Grand Prix,2021-11-14,Alpine F1 Team,8,8.0,4.0,+1 Lap,Classified,70,0,0.0
+OCO,2021,20,Qatar Grand Prix,2021-11-21,Alpine F1 Team,9,5.0,10.0,Finished,Finished,57,0,0.0
+OCO,2021,21,Saudi Arabian Grand Prix,2021-12-05,Alpine F1 Team,9,4.0,12.0,Finished,Finished,50,1,0.0
+OCO,2021,22,Abu Dhabi Grand Prix,2021-12-12,Alpine F1 Team,9,9.0,2.0,Finished,Finished,58,0,0.0
+OCO,2022,1,Bahrain Grand Prix,2022-03-20,Alpine F1 Team,11,7.0,6.0,Finished,Finished,57,0,0.0
+OCO,2022,2,Saudi Arabian Grand Prix,2022-03-27,Alpine F1 Team,5,6.0,8.0,Finished,Finished,50,1,0.0
+OCO,2022,3,Australian Grand Prix,2022-04-10,Alpine F1 Team,8,7.0,6.0,Finished,Finished,58,0,0.0
+OCO,2022,4,Emilia Romagna Grand Prix,2022-04-24,Alpine F1 Team,16,14.0,0.0,+1 Lap,Classified,62,0,0.0
+OCO,2022,5,Miami Grand Prix,2022-05-08,Alpine F1 Team,20,8.0,4.0,Finished,Finished,57,0,0.0
+OCO,2022,6,Spanish Grand Prix,2022-05-22,Alpine F1 Team,12,7.0,6.0,Finished,Finished,66,0,0.0
+OCO,2022,7,Monaco Grand Prix,2022-05-29,Alpine F1 Team,10,12.0,0.0,Finished,Finished,64,1,0.0
+OCO,2022,8,Azerbaijan Grand Prix,2022-06-12,Alpine F1 Team,13,10.0,1.0,Finished,Finished,51,1,0.0
+OCO,2022,9,Canadian Grand Prix,2022-06-19,Alpine F1 Team,7,6.0,8.0,Finished,Finished,70,0,0.0
+OCO,2022,10,British Grand Prix,2022-07-03,Alpine F1 Team,15,,0.0,Fuel pump,Other DNF,37,0,0.0
+OCO,2022,11,Austrian Grand Prix,2022-07-10,Alpine F1 Team,6,5.0,10.0,Finished,Finished,71,0,3.0
+OCO,2022,12,French Grand Prix,2022-07-24,Alpine F1 Team,10,8.0,4.0,Finished,Finished,53,0,0.0
+OCO,2022,13,Hungarian Grand Prix,2022-07-31,Alpine F1 Team,5,9.0,2.0,+1 Lap,Classified,69,0,0.0
+OCO,2022,14,Belgian Grand Prix,2022-08-28,Alpine F1 Team,16,7.0,6.0,Finished,Finished,44,0,0.0
+OCO,2022,15,Dutch Grand Prix,2022-09-04,Alpine F1 Team,12,9.0,2.0,Finished,Finished,72,0,0.0
+OCO,2022,16,Italian Grand Prix,2022-09-11,Alpine F1 Team,14,11.0,0.0,Finished,Finished,53,0,0.0
+OCO,2022,17,Singapore Grand Prix,2022-10-02,Alpine F1 Team,17,,0.0,Engine,Mechanical DNF,26,1,0.0
+OCO,2022,18,Japanese Grand Prix,2022-10-09,Alpine F1 Team,5,4.0,12.0,Finished,Finished,28,0,0.0
+OCO,2022,19,United States Grand Prix,2022-10-23,Alpine F1 Team,0,11.0,0.0,Finished,Finished,56,0,0.0
+OCO,2022,20,Mexico City Grand Prix,2022-10-30,Alpine F1 Team,10,8.0,4.0,+1 Lap,Classified,70,0,0.0
+OCO,2022,21,São Paulo Grand Prix,2022-11-13,Alpine F1 Team,16,8.0,4.0,Finished,Finished,71,0,0.0
+OCO,2022,22,Abu Dhabi Grand Prix,2022-11-20,Alpine F1 Team,8,7.0,6.0,Finished,Finished,58,0,0.0
+OCO,2023,1,Bahrain Grand Prix,2023-03-05,Alpine F1 Team,9,,0.0,Retired,Retired (cause unknown),41,0,0.0
+OCO,2023,2,Saudi Arabian Grand Prix,2023-03-19,Alpine F1 Team,6,8.0,4.0,Finished,Finished,50,1,0.0
+OCO,2023,3,Australian Grand Prix,2023-04-02,Alpine F1 Team,11,14.0,0.0,Retired,Retired (cause unknown),56,0,0.0
+OCO,2023,4,Azerbaijan Grand Prix,2023-04-30,Alpine F1 Team,19,15.0,0.0,Finished,Finished,51,1,0.0
+OCO,2023,5,Miami Grand Prix,2023-05-07,Alpine F1 Team,8,9.0,2.0,Finished,Finished,57,0,0.0
+OCO,2023,6,Monaco Grand Prix,2023-05-28,Alpine F1 Team,3,3.0,15.0,Finished,Finished,78,1,0.0
+OCO,2023,7,Spanish Grand Prix,2023-06-04,Alpine F1 Team,6,8.0,4.0,Finished,Finished,66,0,0.0
+OCO,2023,8,Canadian Grand Prix,2023-06-18,Alpine F1 Team,6,8.0,4.0,Finished,Finished,70,0,0.0
+OCO,2023,9,Austrian Grand Prix,2023-07-02,Alpine F1 Team,12,14.0,0.0,Lapped,Classified,70,0,2.0
+OCO,2023,10,British Grand Prix,2023-07-09,Alpine F1 Team,13,,0.0,Retired,Retired (cause unknown),9,0,0.0
+OCO,2023,11,Hungarian Grand Prix,2023-07-23,Alpine F1 Team,12,,0.0,Retired,Retired (cause unknown),2,0,0.0
+OCO,2023,12,Belgian Grand Prix,2023-07-30,Alpine F1 Team,14,8.0,4.0,Finished,Finished,44,0,0.0
+OCO,2023,13,Dutch Grand Prix,2023-08-27,Alpine F1 Team,16,10.0,1.0,Finished,Finished,72,0,0.0
+OCO,2023,14,Italian Grand Prix,2023-09-03,Alpine F1 Team,18,,0.0,Retired,Retired (cause unknown),39,0,0.0
+OCO,2023,15,Singapore Grand Prix,2023-09-17,Alpine F1 Team,8,,0.0,Retired,Retired (cause unknown),42,1,0.0
+OCO,2023,16,Japanese Grand Prix,2023-09-24,Alpine F1 Team,14,9.0,2.0,Finished,Finished,53,0,0.0
+OCO,2023,17,Qatar Grand Prix,2023-10-08,Alpine F1 Team,8,7.0,6.0,Finished,Finished,57,0,0.0
+OCO,2023,18,United States Grand Prix,2023-10-22,Alpine F1 Team,8,,0.0,Retired,Retired (cause unknown),6,0,0.0
+OCO,2023,19,Mexico City Grand Prix,2023-10-29,Alpine F1 Team,15,10.0,1.0,Finished,Finished,71,0,0.0
+OCO,2023,20,São Paulo Grand Prix,2023-11-05,Alpine F1 Team,14,10.0,1.0,Lapped,Classified,70,0,0.0
+OCO,2023,21,Las Vegas Grand Prix,2023-11-19,Alpine F1 Team,16,4.0,12.0,Finished,Finished,50,1,0.0
+OCO,2023,22,Abu Dhabi Grand Prix,2023-11-26,Alpine F1 Team,12,12.0,0.0,Finished,Finished,58,0,0.0
+OCO,2024,1,Bahrain Grand Prix,2024-03-02,Alpine F1 Team,19,17.0,0.0,Lapped,Classified,56,0,0.0
+OCO,2024,2,Saudi Arabian Grand Prix,2024-03-09,Alpine F1 Team,17,13.0,0.0,Lapped,Classified,49,1,0.0
+OCO,2024,3,Australian Grand Prix,2024-03-24,Alpine F1 Team,15,16.0,0.0,Lapped,Classified,57,0,0.0
+OCO,2024,4,Japanese Grand Prix,2024-04-07,Alpine F1 Team,15,15.0,0.0,Lapped,Classified,52,0,0.0
+OCO,2024,5,Chinese Grand Prix,2024-04-21,Alpine F1 Team,13,11.0,0.0,Finished,Finished,56,0,0.0
+OCO,2024,6,Miami Grand Prix,2024-05-05,Alpine F1 Team,13,10.0,1.0,Finished,Finished,57,0,0.0
+OCO,2024,7,Emilia Romagna Grand Prix,2024-05-19,Alpine F1 Team,12,14.0,0.0,Lapped,Classified,62,0,0.0
+OCO,2024,8,Monaco Grand Prix,2024-05-26,Alpine F1 Team,11,,0.0,Retired,Retired (cause unknown),0,1,0.0
+OCO,2024,9,Canadian Grand Prix,2024-06-09,Alpine F1 Team,18,10.0,1.0,Finished,Finished,70,0,0.0
+OCO,2024,10,Spanish Grand Prix,2024-06-23,Alpine F1 Team,8,10.0,1.0,Finished,Finished,66,0,0.0
+OCO,2024,11,Austrian Grand Prix,2024-06-30,Alpine F1 Team,10,12.0,0.0,Finished,Finished,71,0,0.0
+OCO,2024,12,British Grand Prix,2024-07-07,Alpine F1 Team,18,16.0,0.0,Lapped,Classified,50,0,0.0
+OCO,2024,13,Hungarian Grand Prix,2024-07-21,Alpine F1 Team,19,18.0,0.0,Lapped,Classified,69,0,0.0
+OCO,2024,14,Belgian Grand Prix,2024-07-28,Alpine F1 Team,9,9.0,2.0,Finished,Finished,44,0,0.0
+OCO,2024,15,Dutch Grand Prix,2024-08-25,Alpine F1 Team,15,15.0,0.0,Lapped,Classified,71,0,0.0
+OCO,2024,16,Italian Grand Prix,2024-09-01,Alpine F1 Team,15,14.0,0.0,Lapped,Classified,52,0,0.0
+OCO,2024,17,Azerbaijan Grand Prix,2024-09-15,Alpine F1 Team,20,15.0,0.0,Lapped,Classified,50,1,0.0
+OCO,2024,18,Singapore Grand Prix,2024-09-22,Alpine F1 Team,15,13.0,0.0,Lapped,Classified,61,1,0.0
+OCO,2024,19,United States Grand Prix,2024-10-20,Alpine F1 Team,12,18.0,0.0,Lapped,Classified,55,0,0.0
+OCO,2024,20,Mexico City Grand Prix,2024-10-27,Alpine F1 Team,0,13.0,0.0,Lapped,Classified,70,0,0.0
+OCO,2024,21,São Paulo Grand Prix,2024-11-03,Alpine F1 Team,4,2.0,18.0,Finished,Finished,69,0,0.0
+OCO,2024,22,Las Vegas Grand Prix,2024-11-23,Alpine F1 Team,11,17.0,0.0,Lapped,Classified,49,1,0.0
+OCO,2024,23,Qatar Grand Prix,2024-12-01,Alpine F1 Team,20,,0.0,Retired,Retired (cause unknown),0,0,0.0
+OCO,2025,1,Australian Grand Prix,2025-03-16,Haas F1 Team,19,13.0,0.0,Finished,Finished,57,0,0.0
+OCO,2025,2,Chinese Grand Prix,2025-03-23,Haas F1 Team,11,5.0,10.0,Finished,Finished,56,0,0.0
+OCO,2025,3,Japanese Grand Prix,2025-04-06,Haas F1 Team,18,18.0,0.0,Finished,Finished,53,0,0.0
+OCO,2025,4,Bahrain Grand Prix,2025-04-13,Haas F1 Team,14,8.0,4.0,Finished,Finished,57,0,0.0
+OCO,2025,5,Saudi Arabian Grand Prix,2025-04-20,Haas F1 Team,19,14.0,0.0,Finished,Finished,50,1,0.0
+OCO,2025,6,Miami Grand Prix,2025-05-04,Haas F1 Team,9,12.0,0.0,Finished,Finished,57,0,0.0
+OCO,2025,7,Emilia Romagna Grand Prix,2025-05-18,Haas F1 Team,18,,0.0,Retired,Retired (cause unknown),27,0,0.0
+OCO,2025,8,Monaco Grand Prix,2025-05-25,Haas F1 Team,8,7.0,6.0,Lapped,Classified,77,1,0.0
+OCO,2025,9,Spanish Grand Prix,2025-06-01,Haas F1 Team,16,16.0,0.0,Finished,Finished,66,0,0.0
+OCO,2025,10,Canadian Grand Prix,2025-06-15,Haas F1 Team,14,9.0,2.0,Lapped,Classified,69,0,0.0
+OCO,2025,11,Austrian Grand Prix,2025-06-29,Haas F1 Team,17,10.0,1.0,Lapped,Classified,69,0,0.0
+OCO,2025,12,British Grand Prix,2025-07-06,Haas F1 Team,14,13.0,0.0,Finished,Finished,52,0,0.0
+OCO,2025,13,Belgian Grand Prix,2025-07-27,Haas F1 Team,11,15.0,0.0,Finished,Finished,44,0,4.0
+OCO,2025,14,Hungarian Grand Prix,2025-08-03,Haas F1 Team,17,16.0,0.0,Lapped,Classified,69,0,0.0
+OCO,2025,15,Dutch Grand Prix,2025-08-31,Haas F1 Team,18,10.0,1.0,Finished,Finished,72,0,0.0
+OCO,2025,16,Italian Grand Prix,2025-09-07,Haas F1 Team,15,15.0,0.0,Lapped,Classified,52,0,0.0
+OCO,2025,17,Azerbaijan Grand Prix,2025-09-21,Haas F1 Team,20,14.0,0.0,Finished,Finished,51,1,0.0
+OCO,2025,18,Singapore Grand Prix,2025-10-05,Haas F1 Team,17,18.0,0.0,Lapped,Classified,61,1,0.0
+OCO,2025,19,United States Grand Prix,2025-10-19,Haas F1 Team,17,15.0,0.0,Finished,Finished,56,0,0.0
+OCO,2025,20,Mexico City Grand Prix,2025-10-26,Haas F1 Team,11,9.0,2.0,Finished,Finished,71,0,0.0
+OCO,2025,21,São Paulo Grand Prix,2025-11-09,Haas F1 Team,20,12.0,0.0,Finished,Finished,71,0,0.0
+OCO,2025,22,Las Vegas Grand Prix,2025-11-23,Haas F1 Team,13,9.0,2.0,Finished,Finished,50,1,0.0
+OCO,2025,23,Qatar Grand Prix,2025-11-30,Haas F1 Team,16,15.0,0.0,Lapped,Classified,56,0,0.0
+OCO,2025,24,Abu Dhabi Grand Prix,2025-12-07,Haas F1 Team,8,7.0,6.0,Finished,Finished,58,0,0.0
+OCO,2026,1,Australian Grand Prix,2026-03-08,Haas F1 Team,13,11.0,0.0,Lapped,Classified,57,0,0.0
+OCO,2026,2,Chinese Grand Prix,2026-03-15,Haas F1 Team,13,14.0,0.0,Lapped,Classified,55,0,0.0
+OCO,2026,3,Japanese Grand Prix,2026-03-29,Haas F1 Team,12,10.0,1.0,Finished,Finished,53,0,0.0
